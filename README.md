@@ -1,5 +1,8 @@
 # tencentcloud-cli-docker
 
+[![Build Status](https://cloud.drone.io/api/badges/v7lin/tencentcloud-cli-docker/status.svg)](https://cloud.drone.io/v7lin/tencentcloud-cli-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/v7lin/tencentcloud-cli.svg)](https://hub.docker.com/r/v7lin/tencentcloud-cli)
+
 ### 项目源码
 
 [tencentcloud-cli](https://github.com/TencentCloud/tencentcloud-cli)
